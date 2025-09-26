@@ -1,6 +1,5 @@
 # RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization
-[Kaicheng Yang](https://github.com/KaichengYang),[Xun Zhang](xxx.com),[Haotong Qin](xxx.com),[Yucheng Lin](xxx.com), [Kaisen Yang](xxx.com),[Xianglong Yan](xxx.com) and [Yulun Zhang](https://github.com/YulunZhang).
-
+[Kaicheng Yang](https://github.com/racoonykc),[Xun Zhang](https://github.com/xun04),[Haotong Qin](https://github.com/htqin),[Yucheng Lin](https://github.com/catyugu), [Kaisen Yang](https://github.com/yks23),[Xianglong Yan](https://github.com/XIANGLONGYAN) and [Yulun Zhang](https://github.com/yulunzhang).
 [[arXiv](xxx.com)] [[supplementary material](xxx.com)] 
 
 #### 🔥🔥🔥 News
