@@ -16,16 +16,19 @@
 
 
 
-![RobuQ-W1.58A3 256×256 images from quantized DiT-XL/2 on ImageNet-1K](figs/output3.svg)
+![RobuQ-W1.58A3 256×256 images from quantized DiT-XL/2 on ImageNet-1K](figs/A3_visualization.svg)
 
 *Fig1:RobuQ-W1.58A3 256×256 images from quantized DiT-XL/2 on ImageNet-1K*
 
+![RobuQ-W1.58A2 256×256 images from quantized DiT-XL/2 on ImageNet-1K](figs/A2_visualization.svg)
+
+*Fig1:RobuQ-W1.58A2 256×256 images from quantized DiT-XL/2 on ImageNet-1K*
 ---
 
 ### Comparison
 
 
-![RobuQ consistently outperforms all previous methods](figs/compare_new.svg)
+![RobuQ consistently outperforms all previous methods](figs/compare.svg)
 
 *Fig2:RobuQ consistently outperforms all previous methods*
 
