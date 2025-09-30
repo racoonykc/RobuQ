@@ -1,6 +1,6 @@
 # RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization
 [Kaicheng Yang](https://github.com/racoonykc),[Xun Zhang](https://github.com/xun04),[Haotong Qin](https://github.com/htqin),[Yucheng Lin](https://github.com/catyugu), [Kaisen Yang](https://github.com/yks23),[Xianglong Yan](https://github.com/XIANGLONGYAN) and [Yulun Zhang](https://github.com/yulunzhang).
-[[arXiv](xxx.com)] [[supplementary material](xxx.com)] 
+[[arXiv](https://arxiv.org/abs/2509.23582)] [[supplementary material](https://release-assets.githubusercontent.com/github-production-release-asset/1064627946/649a9e0a-1dc5-44cd-827c-415a35a0663d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-09-30T02%3A31%3A23Z&rscd=attachment%3B+filename%3DSupplementary_Material_arxiv.pdf&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-09-30T01%3A30%3A42Z&ske=2025-09-30T02%3A31%3A23Z&sks=b&skv=2018-11-09&sig=58JxMEWXNu%2Bbd%2FHQIZfP87a1PzxAlieVPqqziObOfEg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1OTE5NzE4MiwibmJmIjoxNzU5MTk2ODgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.kwEO05YXsbCKs419xVVssN5NjSVPPayAolqKn6fa9qE&response-content-disposition=attachment%3B%20filename%3DSupplementary_Material_arxiv.pdf&response-content-type=application%2Foctet-stream)] 
 
 #### 🔥🔥🔥 News
 
