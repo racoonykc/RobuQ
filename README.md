@@ -22,7 +22,7 @@
 ![RobuQ-W1.58A2 256×256 images from quantized DiT-XL/2 on ImageNet-1K](figs/A2_visualization.svg)
 
 *Fig1:RobuQ-W1.58A2 256×256 images from quantized DiT-XL/2 on ImageNet-1K*
----
+
 
 ### Comparison
 
