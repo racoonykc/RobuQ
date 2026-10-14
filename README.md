@@ -2,7 +2,7 @@
 
 **Official PyTorch implementation of RobuQ**, a quantization-aware training (QAT) framework for Diffusion Transformers (DiTs).
 
-[Kaicheng Yang](https://github.com/racoonykc), [Xun Zhang](https://github.com/xun04), [Haotong Qin](https://github.com/htqin), [Yucheng Lin](https://github.com/catyugu), [Kaisen Yang](https://github.com/yks23), [Xianglong Yan](https://github.com/XIANGLONGYAN), and [Yulun Zhang](https://github.com/yulunzhang)
+[Kaicheng Yang](https://github.com/racoonykc), [Xun Zhang](https://github.com/xunzhang1128), [Haotong Qin](https://github.com/htqin), [Yucheng Lin](https://github.com/catyugu), [Kaisen Yang](https://github.com/yks23), [Xianglong Yan](https://github.com/XIANGLONGYAN), and [Yulun Zhang](https://github.com/yulunzhang)
 
 [[Paper](https://arxiv.org/abs/2509.23582)] [[Data Preparation](docs/DATA_PREPARATION.md)] [[DiT Example](examples/DiT)] [[Checkpoints](docs/CHECKPOINTS.md)]
 
